@@ -51,5 +51,5 @@ bash gitdomain.sh [GutHub-ORG name] -t domain.txt
 <h2>Follow Me</h2>
 <p>
 	
-<a href="https://twitter.com/pocdork/"><img src="images/twitter.svg" width="50" height="50"></a>
+<a href="https://twitter.com/pocdork/"><img src=".images/twitter.svg" width="50" height="50"></a>
 </p>
