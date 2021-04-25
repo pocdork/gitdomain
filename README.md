@@ -10,5 +10,5 @@
 	<h4>HTTPX:</h4> Thanks to <a href="https://github.com/projectdiscovery">ProjectDiscovery</a> for such a great tool. You can download <b>httpx</b> from <a href="https://github.com/projectdiscovery/httpx">here</a>.
 </p>
 <br>
-<h1>How it works:</h1>
+<h2>How it works:</h2>
 
