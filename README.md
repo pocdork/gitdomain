@@ -53,9 +53,10 @@ bash gitdomain.sh [GutHub-ORG name] -t domain.txt
 
 <p>
 	<h3>Demo:</h2>
-
 	<a href="https://twitter.com/pocdork/status/1386059518119870465">https://twitter.com/pocdork/status/1386059518119870465</a>
 	<br>
+</p>
+<p>
 <h2>Follow Me</h2>
 	
 <a href="https://twitter.com/pocdork/"><img src=".images/twitter.svg" width="50" height="50"></a>
