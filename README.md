@@ -31,7 +31,7 @@
 ```
 git clone https://github.com/pocdork/gitdomain.git
 cd gitdomain
-
+bash gitdomain.sh [GutHub-ORG name] -[t/d] [domain.txt/company.com]
 ```
 Save your GitHub access token in <code>.token</code> file (Only store one token without any space).
 <p>
